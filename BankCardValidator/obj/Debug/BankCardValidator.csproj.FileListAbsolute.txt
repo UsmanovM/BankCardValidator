@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\BankCardValidator\BankCardValidator\bin\Debug\BankCardValidator.exe.config
+d:\documents\visual studio 2013\Projects\BankCardValidator\BankCardValidator\bin\Debug\BankCardValidator.exe
+d:\documents\visual studio 2013\Projects\BankCardValidator\BankCardValidator\bin\Debug\BankCardValidator.pdb
+d:\documents\visual studio 2013\Projects\BankCardValidator\BankCardValidator\obj\Debug\BankCardValidator.exe
+d:\documents\visual studio 2013\Projects\BankCardValidator\BankCardValidator\obj\Debug\BankCardValidator.pdb
